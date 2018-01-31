@@ -34,7 +34,7 @@ body {
   
 }
 main {
-  flex: 1 0 auto;
+  flex: 0 0 auto;
 }
 
 #footer-styles {
@@ -46,10 +46,22 @@ main {
 .page-footer a {
   color: rgb(0, 0, 0);
   &:hover {
-    color: black;
+    color: rgb(109, 0, 0);
   }
 }
 
 #copyright {
   color: black;
+  background-color: rgb(230, 230, 230);
+}
+
+.fa-icons {
+  font-size: 2em;
+}
+
+.fa-icons a {
+  margin-right: .5em;
+    &:hover {
+      color: rgb(109, 0, 0);
+    }
 }
