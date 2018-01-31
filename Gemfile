@@ -57,3 +57,6 @@ gem 'font-awesome-sass'
 gem 'kyle_hatch_view_tool', git: 'https://github.com/Relofr/kyle_hatch_view_tool'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'devise', '~> 4.3'
+
+
+ruby "2.4.2"
