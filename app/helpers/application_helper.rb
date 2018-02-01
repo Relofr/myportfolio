@@ -15,10 +15,10 @@ module ApplicationHelper
         url: root_path,
         title: 'Home'
       },
-      {
-        url: contact_path,
-        title: 'Contact'
-      },
+      # {
+      #   url: contact_path,
+      #   title: 'Contact'
+      # },
       {
         url: portfolio_path,
         title: 'Portfolio'

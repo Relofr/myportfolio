@@ -66,6 +66,29 @@ main {
     }
 }
 
-.slider a {
-  height: 50px;
+#signup-btn {
+  background-color: #1e2a36;
+    &:hover {
+      background-color: rgb(109, 0, 0);
+    }
+}
+
+#signup-card {
+  margin-top: 2em;
+}
+
+#modal1 {
+  background-color: white;
+  color: black;
+
+}
+
+.modal .modal-content {
+  font-size: 2em;
+  text-align: center;
+}
+
+.material-icons {
+  display: inline-flex;
+  vertical-align: middle;
 }
