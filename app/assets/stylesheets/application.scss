@@ -84,11 +84,16 @@ main {
 }
 
 .modal .modal-content {
-  font-size: 2em;
+  font-size: 2.5em;
   text-align: center;
 }
 
 .material-icons {
   display: inline-flex;
   vertical-align: middle;
+}
+
+.modal-content h6 {
+  
+  font-size: 1.2vw;
 }
