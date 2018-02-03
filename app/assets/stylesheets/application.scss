@@ -4,6 +4,7 @@
 
 body {
   background-color: #1e2a36;
+  font-family: 'Ubuntu', sans-serif;  
 }
 
 .nav-wrapper {
@@ -14,6 +15,7 @@ body {
   color: black;
   padding: .5em;
   padding-right: 1.5em;
+  font-family: 'Ubuntu', sans-serif;  
   &:hover {
     color: rgb(109, 0, 0);
   }
